@@ -15,7 +15,7 @@ assignees: ''
     * [document what you know]      
 
 ### Acceptance Criteria     
-    gherkin 
-    Given [some context]
+```gherkin
+    Given [an initial system state or precondition]
     When [certain action is taken]
     Then [the outcome of action is observed]
